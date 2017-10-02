@@ -1,0 +1,14 @@
+# Vision + Goals
+## Homework 1
+
+Your Vision
+- Remember the exercise we did in class? Write out some of the key aspects of your 5 year vision. Remember there are no limits for this exercise!
+	- My vision can be broken down into two parts: work specific, and a broader vision for life. For my career, I envisioned that I would be working with a small team, either at my own firm, or within a research group at a large firm. In either case, I would either be working to leverage behavioral insights to optimize data delivery and storage, or in algorithmic trading. Along with this, I envisioned returning to graduate school, and completing my PhD in economics, or pivoting toward Computer Science; but the hope would be to do this at an institution other than my current one. Really, the deciding factor there depends on where I will be residing. While I feel very connected to the DC area, the cost of living may be prohibitive to the life that I envisioned. I saw myself living in a small house, with a dog, a nice garden - something that might not be possible in DC. I'm not 100% certain where I would like to end up, and I have accepted that much of that will depend on my job prospects. Briefly looking at the major tech hubs, Seattle, Austin, and New York seem to be likely locations.
+
+Long Term Plans
+- Ok now let's get back down to reality a bit - if you were to set a measurement for yourself as a long term goal, what would it be? We recommend using the SMART mnemonic: Specific, Measurable, Action-oriented, Relevant, Timely.
+	- A long term goal of mine would be to either own my own firm, or head a research team within a larger company. While I included this in my 5 year vision, this might fit better within a 10 year plan. Another long term plan which I smuggled into my vision would be to complete my PhD, but unlike my current attmept to do so in a way in which I have more command of the effort. In many ways this would help with my first effort, as the sort of "pure" research that goes into doctoral research would help develop that kernel of an idea that could lead to heading my own research team.
+
+Short Term Plans
+- Now, looking at this class and when you graduate, what are your short-term goals? (i.e. New Job by April 15th, Present my work at a meet up by March 3rd). We recommend using the SMART mnemonic: Specific, Measurable, Action-oriented, Relevant, Timely
+	- My first short term goal would be to complete the software project that I'm working on at the moment, and have a beta release ready by the end of this year. I also hope to have a job offer by the end offer by the end of the course, and to accept a job offer by the beginning of April. This may be a tad gauche, but I would also hope to be extended an offer to assist with teaching at GA for the next DSI cohort, so as to better hone the skills I'm developing by teaching them to others.
